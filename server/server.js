@@ -24,7 +24,7 @@ const app = express();
 // Replace this with your actual frontend URL after deploy
 const allowedOrigins = [
   "http://localhost:5000/api", // local Vite
-  "https://sha-smart-health-assistant-1.onrender.com/login", // production frontend
+  "https://sha-smart-health-assistant-1.onrender.com/", // production frontend
 ];
 
 app.use(
