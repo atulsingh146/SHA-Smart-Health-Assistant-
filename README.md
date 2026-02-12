@@ -4,8 +4,8 @@ A full-stack MERN (MongoDB, Express, React, Node.js) web application that provid
 
 ## 🚀 Live Demo
 
-Frontend: https://your-frontend-url.onrender.com  
-Backend API: https://your-backend-url.onrender.com
+Frontend: https://sha-smart-health-assistant-1.onrender.com  
+Backend API: https://sha-smart-health-assistant.onrender.com
 
 ---
 
@@ -125,3 +125,4 @@ GitHub: https://github.com/atulsingh146
 ## ⭐ If you like this project
 
 Give it a star ⭐ and connect with me!
+
